@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>CQSortRoomMembersByStatus</key>
@@ -7,10 +7,6 @@
 	<key>MVChatBookmarks</key>
 	<array>
 		<dict>
-			<key>alternateNicknames</key>
-			<array>
-				<string>nonex</string>
-			</array>
 			<key>automatic</key>
 			<true/>
 			<key>created</key>
@@ -18,363 +14,27 @@
 			<key>encoding</key>
 			<integer>4</integer>
 			<key>nickname</key>
-			<string>xenon</string>
+			<string>iphone</string>
 			<key>port</key>
 			<integer>6667</integer>
 			<key>proxy</key>
 			<integer>0</integer>
 			<key>realName</key>
-			<string>Timothy Hatcher</string>
+			<string>Mobile Colloquy User</string>
 			<key>secure</key>
 			<false/>
 			<key>server</key>
 			<string>irc.freenode.net</string>
 			<key>rooms</key>
 			<array>
-				<string>#colloquy-test</string>
+				<string>#colloquy</string>
 			</array>
 			<key>showConsole</key>
 			<true/>
 			<key>type</key>
 			<string>irc</string>
 			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>alternateNicknames</key>
-			<array>
-				<string>nonex</string>
-			</array>
-			<key>automatic</key>
-			<false/>
-			<key>commands</key>
-			<string></string>
-			<key>created</key>
-			<date>2006-09-21T04:05:57Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>2841</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Timothy Hatcher</string>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>irc.javelin.cc</string>
-			<key>showConsole</key>
-			<true/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>alternateNicknames</key>
-			<array>
-				<string>nonex</string>
-			</array>
-			<key>automatic</key>
-			<false/>
-			<key>commands</key>
-			<string></string>
-			<key>created</key>
-			<date>2005-10-26T17:20:09Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>6667</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Timothy Hatcher</string>
-			<key>rooms</key>
-			<array>
-				<string>safari intr1gue</string>
-			</array>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>irc.apple.com</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>alternateNicknames</key>
-			<array>
-				<string></string>
-			</array>
-			<key>automatic</key>
-			<false/>
-			<key>created</key>
-			<date>2006-03-13T05:17:17Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>994</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Timothy Hatcher</string>
-			<key>secure</key>
-			<true/>
-			<key>server</key>
-			<string>irc.distributed.net</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>automatic</key>
-			<false/>
-			<key>commands</key>
-			<string></string>
-			<key>created</key>
-			<date>2006-03-13T07:47:40Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>706</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Timothy Hatcher</string>
-			<key>rooms</key>
-			<array>
-				<string>colloquy</string>
-			</array>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>s.slash0.net</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>silc</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>automatic</key>
-			<false/>
-			<key>created</key>
-			<date>2007-01-02T05:09:54Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>nonex</string>
-			<key>port</key>
-			<integer>6667</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Timothy Hatcher</string>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>irc.freenode.net</string>
-			<key>showConsole</key>
-			<true/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>automatic</key>
-			<false/>
-			<key>created</key>
-			<date>2007-01-29T05:51:23Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>6667</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Timothy Hatcher</string>
-			<key>rooms</key>
-			<array>
-				<string>#dissonance</string>
-			</array>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>irc.krono.net</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>automatic</key>
-			<false/>
-			<key>created</key>
-			<date>2007-02-18T20:04:51Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>timothy</string>
-			<key>port</key>
-			<integer>7326</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>default.icb.net</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>icb</string>
-			<key>username</key>
-			<string>timothy</string>
-		</dict>
-		<dict>
-			<key>alternateNicknames</key>
-			<array>
-				<string>nonex</string>
-			</array>
-			<key>automatic</key>
-			<false/>
-			<key>commands</key>
-			<string></string>
-			<key>created</key>
-			<date>2007-04-15T20:48:54Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>5222</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>rooms</key>
-			<array>
-				<string>colloquy@conference.jabber.org</string>
-			</array>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>jabber.org</string>
-			<key>showConsole</key>
-			<true/>
-			<key>type</key>
-			<string>xmpp</string>
-			<key>username</key>
-			<string>pf5268</string>
-		</dict>
-		<dict>
-			<key>automatic</key>
-			<false/>
-			<key>created</key>
-			<date>2007-04-18T06:20:55Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>xenon</string>
-			<key>port</key>
-			<integer>5223</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>secure</key>
-			<true/>
-			<key>server</key>
-			<string>talk.google.com</string>
-			<key>showConsole</key>
-			<true/>
-			<key>type</key>
-			<string>xmpp</string>
-			<key>username</key>
-			<string>timothy.hatcher@gmail.com</string>
-		</dict>
-		<dict>
-			<key>automatic</key>
-			<false/>
-			<key>commands</key>
-			<string></string>
-			<key>created</key>
-			<date>2007-08-04T19:11:58Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>kijiro</string>
-			<key>port</key>
-			<integer>6667</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Kiji Roshi</string>
-			<key>rooms</key>
-			<array>
-				<string>iphone-uikit</string>
-			</array>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>irc.osx86.hu</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>kiji</string>
-		</dict>
-		<dict>
-			<key>alternateNicknames</key>
-			<array>
-				<string></string>
-			</array>
-			<key>automatic</key>
-			<false/>
-			<key>commands</key>
-			<string></string>
-			<key>created</key>
-			<date>2007-08-17T05:22:18Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>kijiro</string>
-			<key>port</key>
-			<integer>6667</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Kiji Roshi</string>
-			<key>rooms</key>
-			<array>
-				<string>installer.app</string>
-			</array>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>us.undernet.org</string>
-			<key>showConsole</key>
-			<false/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>kiji</string>
+			<string>iphone</string>
 		</dict>
 	</array>
 </dict>
