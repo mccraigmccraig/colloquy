@@ -2,40 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CQSortRoomMembersByStatus</key>
+	<key>JVSortRoomMembersByStatus</key>
 	<true/>
-	<key>MVChatBookmarks</key>
-	<array>
-		<dict>
-			<key>automatic</key>
-			<true/>
-			<key>created</key>
-			<date>2005-10-26T05:41:17Z</date>
-			<key>encoding</key>
-			<integer>4</integer>
-			<key>nickname</key>
-			<string>iphone</string>
-			<key>port</key>
-			<integer>6667</integer>
-			<key>proxy</key>
-			<integer>0</integer>
-			<key>realName</key>
-			<string>Mobile Colloquy User</string>
-			<key>secure</key>
-			<false/>
-			<key>server</key>
-			<string>irc.freenode.net</string>
-			<key>rooms</key>
-			<array>
-				<string>#colloquy</string>
-			</array>
-			<key>showConsole</key>
-			<true/>
-			<key>type</key>
-			<string>irc</string>
-			<key>username</key>
-			<string>iphone</string>
-		</dict>
-	</array>
 </dict>
 </plist>
