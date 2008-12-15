@@ -2,7 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>JVChatEncoding</key>
+	<integer>5</integer>
+	<key>CQDirectChatEncoding</key>
+	<integer>0</integer>
+	<key>CQChatRoomEncoding</key>
+	<integer>0</integer>
 	<key>JVSortRoomMembersByStatus</key>
 	<true/>
+	<key>CQShowLeaveEvents</key>
+	<true/>
+	<key>CQShowJoinEvents</key>
+	<true/>
+	<key>CQDefaultRealName</key>
+	<string>Mobile User</string>
+	<key>CQDefaultNickname</key>
+	<string>mobile</string>
 </dict>
 </plist>
