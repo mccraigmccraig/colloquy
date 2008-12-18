@@ -134,6 +134,12 @@
 	</dict>
 	<dict>
 		<key>identifier</key>
+		<string>JVChatRoomActivityDetail</string>
+		<key>title</key>
+		<string>Chat Room Activity Detail</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
 		<string>JVChatReplyAfterAddressing</string>
 		<key>title</key>
 		<string>Reply After Addressing Member</string>

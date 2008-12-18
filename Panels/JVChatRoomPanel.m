@@ -348,6 +348,16 @@
 		[self performNotification:@"JVChatRoomActivity" withContextInfo:context];
 	}
 
+	if( [message ignoreStatus] == JVNotIgnored && [[message sender] respondsToSelector:@selector( isLocalUser )] && ! [[message sender] isLocalUser] ) {
+	  NSMutableDictionary *context = [NSMutableDictionary dictionary];
+	  [context setObject:[NSString stringWithFormat:NSLocalizedString( @"#%@:%@", "room activity detail bubble title" ), [self title], [member displayName]] forKey:@"title"];
+	  [context setObject:[NSString stringWithFormat:NSLocalizedString( @"%@", "new single room message detail bubble text" ), [message bodyAsPlainText]] forKey:@"description"];
+	  [context setObject:[NSImage imageNamed:@"room"] forKey:@"image"];
+	  [context setObject:self forKey:@"target"];
+	  [context setObject:NSStringFromSelector( @selector( activate: ) ) forKey:@"action"];
+	  [self performNotification:@"JVChatRoomActivityDetail" withContextInfo:context];
+	}
+
 	if( [message ignoreStatus] == JVNotIgnored && [_nextMessageAlertMembers containsObject:[message sender]] ) {
 		NSMutableDictionary *context = [NSMutableDictionary dictionary];
 		[context setObject:[NSString stringWithFormat:NSLocalizedString( @"%@ Replied", "member replied bubble title" ), [[message sender] title]] forKey:@"title"];
