@@ -378,7 +378,7 @@ number of room members information line */
 "Chat Server Port is invalid" = "Le port du serveur est incorrect";
 
 /* chat invalid nickname dialog title */
-"Chat Server is blank" = "Chat Server is blank";
+"Chat Server is blank" = "Le champs server est vide";
 
 /* clear console toolbar button name
 clear display toolbar button name */
@@ -480,7 +480,7 @@ delete connection button tooltip */
 "Disconnected" = "Déconnecté";
 
 /* chat panes drawer toolbar item name */
-"Drawer" = "Drawer";
+"Drawer" = "Tirroir";
 
 /* error installing emoticons title */
 "Emoticon Installation Error" = "Erreur d'installation des émoticones";
@@ -518,7 +518,7 @@ find toolbar item patlette label */
 "Grant Voice" = "Mettre le mode voice";
 
 /* hide drawer menu title */
-"Hide Drawer" = "Masquer le drawer";
+"Hide Drawer" = "Masquer le tirroir";
 
 /* hide tab bar menu title */
 "Hide Tab Bar" = "Masquer la barre des onglets";
@@ -929,7 +929,7 @@ choose style contextual menu */
 "Username is blank" = "Nom d'utilisateur vide";
 
 /* verbose toolbar button name */
-"Verbose" = "Verbose";
+"Verbose" = "Verbiage";
 
 /* ban hostmask
 ban hostmask label */
@@ -1035,7 +1035,7 @@ ban hostmask label */
 "You made this room no longer a secret." = "Vous avez retiré le secret de ce canal.";
 
 /* no longer invite only room status message */
-"You made this room no longer invite only." = "Vous avez retiré le mode invitation uniquement pour ce.";
+"You made this room no longer invite only." = "Vous avez retiré le mode invitation uniquement pour ce canal.";
 
 /* no longer moderated for normal users room status message */
 "You made this room no longer moderated for normal users." = "Vous avez retiré la modération de ce canal pour les utilisateurs normaux.";
@@ -1074,7 +1074,7 @@ ban hostmask label */
 "You rejoined the room." = "Vous avez rejoint le canal.";
 
 /* you removed a ban chat room status message */
-"You removed the ban on %@." = "You removed the ban on %@.";
+"You removed the ban on %@." = "Vous avez retiré le bannisement de %@.";
 
 /* no member limit room status message */
 "You removed the room member limit." = "Vous avez retiré la limite des participants.";
